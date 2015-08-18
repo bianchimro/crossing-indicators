@@ -40,6 +40,10 @@ Representing the whole square matrix lets us plot all combinations of scatterplo
 Any other data series related to the observed entities can be joined in
 
 
+## Correlations ranking
+Couples of indicators can be ranked by correlation, in order to identify the most correlated dimensions of the dataset.
+
+
 ## Dynamic ranking
 Another desired feature is dynamic ranking of entities, that can be accomplished by:
 
