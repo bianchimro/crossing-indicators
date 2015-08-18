@@ -1,6 +1,6 @@
 # crossing-indicators
 
-## cross correlations matrix
+## Cross correlations matrix
 
 ## Data structure
 Data must consist of a serie of indicators related to the same "entities" (i.e. geographic or political territories). Indicators are grouped into categories for operating grouped selections. Categorization of indicators is not strictly required and in case of no categorization provided, all indicators will be assigned to the same category.
